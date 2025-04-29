@@ -1,0 +1,11 @@
+REPORTE DE COORDINACIÓN DE RELÉS
+Archivo de entrada: /Users/gustavo/MATLAB/Projects/opt_matlab/data/raw/independent_relay_pairs_scenario_base.json
+Fecha de generación: 28-Apr-2025 00:53:44
+CTI utilizado: 0.20 s
+
+--- RESUMEN GLOBAL (100 Pares Totales) ---
+Pares Coordinados   (MT = 0)  : 12 (12.0%)
+Pares Descoordinados (MT < 0): 88 (88.0%)
+Suma Total de Márgenes (TMT)  : -15.854300 s
+
+--- DETALLE DE PARES DESCOORDINADOS (MT < 0) [88 pares] ---
