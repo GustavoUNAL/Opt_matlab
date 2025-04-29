@@ -132,12 +132,3 @@ Las rutas relativas se auto‑configuran; solo asegurate de tener el JSON optimi
 
 ---
 
-## 6 · Contacto y soporte
-Para dudas o mejoras:
-* Abrí un _Issue_ en el repo (cuando esté en GitHub).
-* O escribí a **gustavoarteaga0508 (at) gmail.com**
-
----
-
-¡Listo! Ejecutá el flujo completo y revisá tus figuras en `results/figures/`.
-
